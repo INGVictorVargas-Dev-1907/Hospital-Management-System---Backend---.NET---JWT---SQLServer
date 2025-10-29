@@ -1,0 +1,488 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\proyecto  vscode\\web api con .net core 9, swagger y entity framewor\\hospitalmanagementsystem\\hospitalmanagementsystem\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\proyecto  vscode\\web api con .net core 9, swagger y entity framewor\\hospitalmanagementsystem\\hospitalmanagementsystem\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\proyecto  vscode\\web api con .net core 9, swagger y entity framewor\\hospitalmanagementsystem\\hospitalmanagementsystem\\dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\proyecto  vscode\\web api con .net core 9, swagger y entity framewor\\hospitalmanagementsystem\\hospitalmanagementsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\proyecto  vscode\\web api con .net core 9, swagger y entity framewor\\hospitalmanagementsystem\\hospitalmanagementsystem\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\proyecto  vscode\\web api con .net core 9, swagger y entity framewor\\hospitalmanagementsystem\\hospitalmanagementsystem\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\proyecto  vscode\\web api con .net core 9, swagger y entity framewor\\hospitalmanagementsystem\\hospitalmanagementsystem\\controllers\\medicalrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\controllers\\medicalrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\proyecto  vscode\\web api con .net core 9, swagger y entity framewor\\hospitalmanagementsystem\\hospitalmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\proyecto  vscode\\web api con .net core 9, swagger y entity framewor\\hospitalmanagementsystem\\hospitalmanagementsystem\\data\\dapperdbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\data\\dapperdbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\proyecto  vscode\\web api con .net core 9, swagger y entity framewor\\hospitalmanagementsystem\\hospitalmanagementsystem\\dtos\\medicaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\dtos\\medicaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\proyecto  vscode\\web api con .net core 9, swagger y entity framewor\\hospitalmanagementsystem\\hospitalmanagementsystem\\services\\medicalrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\services\\medicalrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\proyecto  vscode\\web api con .net core 9, swagger y entity framewor\\hospitalmanagementsystem\\hospitalmanagementsystem\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\proyecto  vscode\\web api con .net core 9, swagger y entity framewor\\hospitalmanagementsystem\\hospitalmanagementsystem\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\proyecto  vscode\\web api con .net core 9, swagger y entity framewor\\hospitalmanagementsystem\\hospitalmanagementsystem\\services\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\services\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\proyecto  vscode\\web api con .net core 9, swagger y entity framewor\\hospitalmanagementsystem\\hospitalmanagementsystem\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\proyecto  vscode\\web api con .net core 9, swagger y entity framewor\\hospitalmanagementsystem\\hospitalmanagementsystem\\services\\imedicalrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\services\\imedicalrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\proyecto  vscode\\web api con .net core 9, swagger y entity framewor\\hospitalmanagementsystem\\hospitalmanagementsystem\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\proyecto  vscode\\web api con .net core 9, swagger y entity framewor\\hospitalmanagementsystem\\hospitalmanagementsystem\\services\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\services\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\proyecto  vscode\\web api con .net core 9, swagger y entity framewor\\hospitalmanagementsystem\\hospitalmanagementsystem\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\proyecto  vscode\\web api con .net core 9, swagger y entity framewor\\hospitalmanagementsystem\\hospitalmanagementsystem\\data\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\data\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\proyecto  vscode\\web api con .net core 9, swagger y entity framewor\\hospitalmanagementsystem\\hospitalmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\proyecto  vscode\\web api con .net core 9, swagger y entity framewor\\hospitalmanagementsystem\\hospitalmanagementsystem\\dtos\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\dtos\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\proyecto  vscode\\web api con .net core 9, swagger y entity framewor\\hospitalmanagementsystem\\hospitalmanagementsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\proyecto  vscode\\web api con .net core 9, swagger y entity framewor\\hospitalmanagementsystem\\hospitalmanagementsystem\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\proyecto  vscode\\web api con .net core 9, swagger y entity framewor\\hospitalmanagementsystem\\hospitalmanagementsystem\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\proyecto  vscode\\web api con .net core 9, swagger y entity framewor\\hospitalmanagementsystem\\hospitalmanagementsystem\\models\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\models\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\proyecto  vscode\\web api con .net core 9, swagger y entity framewor\\hospitalmanagementsystem\\hospitalmanagementsystem\\models\\documenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\models\\documenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\proyecto  vscode\\web api con .net core 9, swagger y entity framewor\\hospitalmanagementsystem\\hospitalmanagementsystem\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EC2506-8483-46A2-88CC-B44E21E9D9DA}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\.gitignore",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\.gitignore",
+              "ToolTip": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\.gitignore",
+              "RelativeToolTip": "HospitalManagementSystem\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-29T17:13:36.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\README.md",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\README.md",
+              "ToolTip": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\README.md",
+              "RelativeToolTip": "HospitalManagementSystem\\README.md",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAUwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-29T16:11:31.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Program.cs",
+              "ToolTip": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Program.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Program.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T19:03:57.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Controllers\\AppointmentsController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwMsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T19:07:03.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MedicalRecordsController.cs",
+              "DocumentMoniker": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Controllers\\MedicalRecordsController.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Controllers\\MedicalRecordsController.cs",
+              "ToolTip": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Controllers\\MedicalRecordsController.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Controllers\\MedicalRecordsController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAwwN0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T19:07:18.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MedicalRecordService.cs",
+              "DocumentMoniker": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Services\\MedicalRecordService.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Services\\MedicalRecordService.cs",
+              "ToolTip": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Services\\MedicalRecordService.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Services\\MedicalRecordService.cs",
+              "ViewState": "AgIAANsAAAAAAAAAAADwvy4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T19:10:50.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthDTO.cs",
+              "DocumentMoniker": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\DTOs\\AuthDTO.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\DTOs\\AuthDTO.cs",
+              "ToolTip": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\DTOs\\AuthDTO.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\DTOs\\AuthDTO.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAkwBYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T19:08:17.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Controllers\\PatientsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAL4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T19:06:49.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAGkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T19:06:28.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MedicalDTO.cs",
+              "DocumentMoniker": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\DTOs\\MedicalDTO.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\DTOs\\MedicalDTO.cs",
+              "ToolTip": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\DTOs\\MedicalDTO.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\DTOs\\MedicalDTO.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAwwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T19:08:45.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DapperDbConnectionFactory.cs",
+              "DocumentMoniker": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Data\\DapperDbConnectionFactory.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Data\\DapperDbConnectionFactory.cs",
+              "ToolTip": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Data\\DapperDbConnectionFactory.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Data\\DapperDbConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T17:08:22.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Services\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Services\\AppointmentService.cs",
+              "ToolTip": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Services\\AppointmentService.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Services\\AppointmentService.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAcwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T19:10:25.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Models\\Appointment.cs",
+              "ToolTip": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Models\\Appointment.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Models\\Appointment.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwBwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T14:31:56.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Services\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Services\\IAppointmentService.cs",
+              "ToolTip": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Services\\IAppointmentService.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Services\\IAppointmentService.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAcwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T19:10:14.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Services\\AuthService.cs",
+              "ToolTip": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Services\\AuthService.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Services\\AuthService.cs",
+              "ViewState": "AgIAAOYAAAAAAAAAAAAuwAIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T19:09:32.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IMedicalRecordService.cs",
+              "DocumentMoniker": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Services\\IMedicalRecordService.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Services\\IMedicalRecordService.cs",
+              "ToolTip": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Services\\IMedicalRecordService.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Services\\IMedicalRecordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T19:10:37.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Services\\IAuthService.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Services\\IAuthService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCAAAACbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T19:09:19.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Services\\IPatientService.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Services\\IPatientService.cs",
+              "ToolTip": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Services\\IPatientService.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Services\\IPatientService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T19:09:45.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Services\\PatientService.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Services\\PatientService.cs",
+              "ToolTip": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Services\\PatientService.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Services\\PatientService.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwIEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T19:10:01.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DapperContext.cs",
+              "DocumentMoniker": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Data\\DapperContext.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Data\\DapperContext.cs",
+              "ToolTip": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Data\\DapperContext.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Data\\DapperContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T19:04:27.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\appsettings.json",
+              "ToolTip": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\appsettings.json",
+              "RelativeToolTip": "HospitalManagementSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-01T19:11:35.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PatientDTO.cs",
+              "DocumentMoniker": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\DTOs\\PatientDTO.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\DTOs\\PatientDTO.cs",
+              "ToolTip": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\DTOs\\PatientDTO.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\DTOs\\PatientDTO.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T19:08:30.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Models\\User.cs",
+              "ToolTip": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Models\\User.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Models\\User.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T19:54:08.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Models\\Role.cs",
+              "ToolTip": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Models\\Role.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Models\\Role.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T14:48:29.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Models\\Patient.cs",
+              "ToolTip": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Models\\Patient.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Models\\Patient.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAA6wDMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T14:50:16.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MedicalRecord.cs",
+              "DocumentMoniker": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Models\\MedicalRecord.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Models\\MedicalRecord.cs",
+              "ToolTip": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Models\\MedicalRecord.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Models\\MedicalRecord.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwB8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T15:26:29.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DocumentType.cs",
+              "DocumentMoniker": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Models\\DocumentType.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Models\\DocumentType.cs",
+              "ToolTip": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Models\\DocumentType.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Models\\DocumentType.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T15:12:59.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Models\\Doctor.cs",
+              "ToolTip": "C:\\proyecto  VScode\\WEB API con .NET Core 9, Swagger y Entity Framewor\\HospitalManagementSystem\\HospitalManagementSystem\\Models\\Doctor.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wC8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T15:14:10.469Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
